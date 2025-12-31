@@ -1,5 +1,5 @@
 
-# 🌿 PlantFormulatorAI | Master Class Edition
+# 🌿 PlantFormulatorAI
 **The "Senior Scientist" AI for Plant-Based Food R&D**
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![Science](https://img.shields.io/badge/Food%20Science-Rheology-green) ![Visualization](https://img.shields.io/badge/Matplotlib-Radar%20Charts-orange) ![License](https://img.shields.io/badge/License-MIT-lightgrey)

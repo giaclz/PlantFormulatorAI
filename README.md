@@ -1,10 +1,10 @@
 
-# 🌿 PlantBot AI | Master Class Edition
+# 🌿 PlantFormulatorAI | Master Class Edition
 **The "Senior Scientist" AI for Plant-Based Food R&D**
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![Science](https://img.shields.io/badge/Food%20Science-Rheology-green) ![Visualization](https://img.shields.io/badge/Matplotlib-Radar%20Charts-orange) ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-**PlantBot AI** is a specialized Machine Learning application designed to act as a **Senior R&D Partner** for food technologists. Unlike simple calculators, this AI explains the *science* behind every formulation decision, predicts rheological outcomes (texture/stability), and visualizes sensory profiles before you ever step into the lab.
+**PlantFormulatorAI** is a specialized Machine Learning application designed to act as a **Senior R&D Partner** for food technologists. Unlike simple calculators, this AI explains the *science* behind every formulation decision, predicts rheological outcomes (texture/stability), and visualizes sensory profiles before you ever step into the lab.
 
 ---
 

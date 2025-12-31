@@ -1,10 +1,4 @@
-Here is the complete, professional **README.md** file for the Master Class Edition.
 
-You can copy the code block below entirely and save it as a file named **`README.md`** in your project folder.
-
----
-
-```markdown
 # 🌿 PlantBot AI | Master Class Edition
 **The "Senior Scientist" AI for Plant-Based Food R&D**
 
